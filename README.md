@@ -15,11 +15,11 @@
 
 ## 🧠 Sobre mí
 
-Soy **Javier Martínez**, un **Desarrollador Full Stack** con mentalidad creativa y orientación a resultados.  
-Disfruto construir soluciones digitales donde el **diseño elegante** se encuentra con la **arquitectura sólida**.
+Soy **Javier Martínez**, un **Desarrollador Full Stack** con enfoque en la creación de aplicaciones web potentes, fluidas y con gran experiencia de usuario.  
+Me apasiona construir soluciones digitales donde el **rendimiento**, el **diseño** y la **tecnología** se unen para crear impacto.
 
-💡 Me apasiona crear interfaces que impacten, optimizar procesos y trabajar con tecnologías que desafíen los límites.  
-🔥 Mi enfoque es simple: **Código limpio, funcional y con propósito.**
+💡 Trabajo con una mentalidad creativa, siempre buscando equilibrio entre **estética, funcionalidad y escalabilidad**.  
+🔥 Mi meta: **escribir código que inspire y soluciones que perduren.**
 
 ---
 
@@ -39,44 +39,11 @@ Disfruto construir soluciones digitales donde el **diseño elegante** se encuent
 
 > “No solo se trata de programar, sino de crear experiencias que las personas recuerden.”
 
-- 🧭 Código modular y mantenible  
-- ⚡ Optimización del rendimiento en frontend  
-- 🔐 Seguridad y buenas prácticas en APIs  
-- 🎨 Interfaz intuitiva con transiciones fluidas  
-- 🔄 Integración continua y despliegue automatizado  
-
----
-
-## 🌟 Proyectos Destacados
-
-### 🧠 **AI Travel Explorer**
-Plataforma interactiva que muestra destinos turísticos usando IA y análisis de datos.  
-`React · Flask · PostgreSQL`
-
-### 💬 **Smart Chat Support**
-Aplicación de mensajería para empresas con integración a Firebase.  
-`Vue 3 · Firebase · Tailwind`
-
-### 📊 **Teacher Panel**
-Panel educativo con video player, progreso dinámico y analíticas visuales.  
-`React · Firebase · Recharts`
-
-### 🧾 **API User Manager**
-API REST segura para autenticación, roles y gestión de usuarios.  
-`Python · Flask · JWT`
-
----
-
-## 📈 Mis estadísticas
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=javiermartinezdev&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=javiermartinezdev&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiermartinezdev&layout=compact&theme=radical" />
-</p>
+- 🧭 Código modular, mantenible y bien documentado  
+- ⚡ Frontends optimizados para velocidad y fluidez  
+- 🔐 APIs seguras con autenticación y buenas prácticas  
+- 🎨 Diseño visual atractivo y centrado en el usuario  
+- 🔄 Automatización e integración continua en despliegues  
 
 ---
 
@@ -95,6 +62,15 @@ API REST segura para autenticación, roles y gestión de usuarios.
 </p>
 
 ---
+
+### ⚡ Fun Fact  
+> Cuando no estoy programando, probablemente estoy ideando nuevas interfaces o explorando formas de mejorar la experiencia digital.
+
+---
+
+✨ _"El código es arte, y cada línea es una oportunidad para crear algo increíble."_  
+— **Javier Martínez**
+
 
 ### ⚡ Fun Fact  
 > Cuando no estoy programando, probablemente estoy experimentando nuevas interfaces o ideando el próximo proyecto que cambie el juego.
