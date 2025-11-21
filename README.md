@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Code-React-blue?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/Code-Vue.js-41B883?style=flat&logo=vue.js" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Framework-Flask-000000?style=flat&logo=flask" />
   <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker" />
   <img src="https://img.shields.io/badge/DB-Firebase-FFCA28?style=flat&logo=firebase" />
 </p>
@@ -28,7 +27,7 @@ Me apasiona construir soluciones digitales donde el **rendimiento**, el **diseñ
 | Categoría | Tecnologías |
 |------------|--------------|
 | **Frontend** | React · Vue.js · Astro · Next.js · TailwindCSS · Framer Motion |
-| **Backend** | Python · Flask · FastAPI · Node.js · Express |
+| **Backend** | Python · Flask · Django · Node.js · Express |
 | **Base de Datos** | PostgreSQL · MySQL · Firebase · MongoDB |
 | **Herramientas** | Git · Docker · Nginx · Postman · VS Code |
 | **Diseño/UI** | Figma · Animaciones modernas · Diseño responsivo |
