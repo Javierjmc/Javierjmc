@@ -49,14 +49,11 @@ Me apasiona construir soluciones digitales donde el **rendimiento**, el **diseñ
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+  <a href="https://www.linkedin.com/in/javierjmc" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tuemail@ejemplo.com">
+  <a href="mailto:javierjmc@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://tusitio.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
