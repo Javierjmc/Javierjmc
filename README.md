@@ -60,22 +60,3 @@ Me apasiona construir soluciones digitales donde el **rendimiento**, el **diseñ
   </a>
 </p>
 
----
-
-### ⚡ Fun Fact  
-> Cuando no estoy programando, probablemente estoy ideando nuevas interfaces o explorando formas de mejorar la experiencia digital.
-
----
-
-✨ _"El código es arte, y cada línea es una oportunidad para crear algo increíble."_  
-— **Javier Martínez**
-
-
-### ⚡ Fun Fact  
-> Cuando no estoy programando, probablemente estoy experimentando nuevas interfaces o ideando el próximo proyecto que cambie el juego.
-
----
-
-✨ _"El código es arte, y cada línea es una oportunidad para crear algo increíble."_  
-— **Javier Martínez**
-
