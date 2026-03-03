@@ -41,13 +41,6 @@ Soy **Javier Martínez**, Desarrollador Full Stack especializado en el ecosistem
 - 🤖 **Automatización:** Conexión fluida entre el frontend y el CRM/ERP de la empresa.
 - 🎨 **Pixel Perfect:** Diseño responsivo con foco total en la experiencia de conversión (CRO).
 
----
-
-## 🛠️ Proyectos Destacados en GitHub
-
-- **[Search Dependencies](https://search-dependencies.vercel.app):** Dominio de routing y SSR con Next.js.
-- **[FODA App (IA)](https://foda-2.vercel.app):** Implementación de inteligencia artificial con Vercel SDK.
-- **Shopify Custom Sections:** (Si tienes un repo de snippets) Colección de componentes Liquid de alto rendimiento.
 
 ---
 
