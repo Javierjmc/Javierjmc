@@ -1,24 +1,22 @@
-<!-- Banner -->
-<h1 align="center">🚀 Javier Martínez — Full Stack Developer</h1>
-<h3 align="center">Transformando ideas en experiencias digitales modernas ⚡</h3>
+<h1 align="center">🚀 Javier Martínez — Full Stack & Shopify Expert</h1>
+<h3 align="center">E-commerce de alto rendimiento | Modern Web Stack | Automatización ⚡</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-React-blue?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Code-Vue.js-41B883?style=flat&logo=vue.js" />
+  <img src="https://img.shields.io/badge/Shopify-Liquid-95BF47?style=flat&logo=shopify" />
+  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Code-Next.js-000000?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/Code-Astro-FF5D01?style=flat&logo=astro" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/DB-Firebase-FFCA28?style=flat&logo=firebase" />
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Soy **Javier Martínez**, un **Desarrollador Full Stack** con enfoque en la creación de aplicaciones web potentes, fluidas y con gran experiencia de usuario.  
-Me apasiona construir soluciones digitales donde el **rendimiento**, el **diseño** y la **tecnología** se unen para crear impacto.
+Soy **Javier Martínez**, Desarrollador Full Stack especializado en el ecosistema **Shopify** y arquitecturas web modernas. Mi enfoque principal es unir el rendimiento extremo (**SSR/SSG**) con la conversión de negocio.
 
-💡 Trabajo con una mentalidad creativa, siempre buscando equilibrio entre **estética, funcionalidad y escalabilidad**.  
-🔥 Mi meta: **escribir código que inspire y soluciones que perduren.**
+💡 Experto en **Liquid** para el desarrollo de secciones personalizadas y optimización de temas nativos, así como en la implementación de **Headless Commerce**.
+🔥 Mi valor diferencial: Integrar ecosistemas de datos (**Zoho, Clientify, GA4**) para transformar webs en máquinas de venta automatizadas.
 
 ---
 
@@ -26,34 +24,40 @@ Me apasiona construir soluciones digitales donde el **rendimiento**, el **diseñ
 
 | Categoría | Tecnologías |
 |------------|--------------|
-| **Frontend** | React · Vue.js · Astro · Next.js · TailwindCSS · Framer Motion |
-| **Backend** | Python · Flask · Django · Node.js · Express |
-| **Base de Datos** | PostgreSQL · MySQL · Firebase · MongoDB |
-| **Herramientas** | Git · Docker · Nginx · Postman · VS Code |
-| **Diseño/UI** | Figma · Animaciones modernas · Diseño responsivo |
+| **E-commerce** | **Shopify (Liquid)** · Custom Sections · Theme 2.0 · Hydrogen |
+| **Frontend** | React · Next.js · **Astro** · Vue.js · TailwindCSS · TypeScript |
+| **Backend** | Python (Flask) · Node.js · Supabase · Firebase |
+| **Integraciones** | **Zoho CRM** · Clientify · GTM · GA4 · Vercel AI SDK |
+| **Herramientas** | Git · Docker · Vercel · Postman · Figma |
 
 ---
 
 ## ⚙️ Filosofía de Desarrollo
 
-> “No solo se trata de programar, sino de crear experiencias que las personas recuerden.”
+> “No solo se trata de programar, sino de traducir objetivos de negocio en soluciones técnicas eficientes.”
 
-- 🧭 Código modular, mantenible y bien documentado  
-- ⚡ Frontends optimizados para velocidad y fluidez  
-- 🔐 APIs seguras con autenticación y buenas prácticas  
-- 🎨 Diseño visual atractivo y centrado en el usuario  
-- 🔄 Automatización e integración continua en despliegues  
+- ⚡ **Performance First:** Optimización de Core Web Vitals y carga ultra rápida.
+- 🛠️ **Custom Shopify:** Desarrollo nativo en Liquid para eliminar la dependencia de apps pesadas.
+- 🤖 **Automatización:** Conexión fluida entre el frontend y el CRM/ERP de la empresa.
+- 🎨 **Pixel Perfect:** Diseño responsivo con foco total en la experiencia de conversión (CRO).
+
+---
+
+## 🛠️ Proyectos Destacados en GitHub
+
+- **[Search Dependencies](https://search-dependencies.vercel.app):** Dominio de routing y SSR con Next.js.
+- **[FODA App (IA)](https://foda-2.vercel.app):** Implementación de inteligencia artificial con Vercel SDK.
+- **Shopify Custom Sections:** (Si tienes un repo de snippets) Colección de componentes Liquid de alto rendimiento.
 
 ---
 
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/javierjmc" target="_blank">
+  <a href="https://linkedin.com/in/javierjmc" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:javierjmc@gmail.com">
+  <a href="mailto:javierjmcdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
