@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Javier Martínez — Full Stack & Shopify Expert</h1>
+<h1 align="center">🚀 Javier Martínez — Full Stack & Especialista en Shopify</h1>
 <h3 align="center">E-commerce de alto rendimiento | Modern Web Stack | Automatización ⚡</h3>
 
 <p align="center">
