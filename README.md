@@ -1,56 +1,79 @@
-<h1 align="center">🚀 Javier Martínez — Full Stack & Especialista en Shopify</h1>
-<h3 align="center">E-commerce de alto rendimiento | Modern Web Stack | Automatización ⚡</h3>
+<h1 align="center">Javier Martínez</h1>
+  <h3 align="center">Desarrollador Full Stack · Productos web con IA y automatización</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Shopify-Liquid-95BF47?style=flat&logo=shopify" />
-  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Code-Next.js-000000?style=flat&logo=next.js" />
-  <img src="https://img.shields.io/badge/Code-Astro-FF5D01?style=flat&logo=astro" />
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python" />
-</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  </p>
 
----
+  <p align="center">📍 Puerto Ordaz, Venezuela · Trabajo en remoto con equipos en España y Latinoamérica</p>
 
-## 🧠 Sobre mí
+  ---
 
-Soy **Javier Martínez**, Desarrollador Full Stack especializado en el ecosistema **Shopify** y arquitecturas web modernas. Mi enfoque principal es unir el rendimiento extremo (**SSR/SSG**) con la conversión de negocio.
+  ## Sobre mí
 
-💡 Experto en **Liquid** para el desarrollo de secciones personalizadas y optimización de temas nativos, así como en la implementación de **Headless Commerce**.
-🔥 Mi valor diferencial: Integrar ecosistemas de datos (**Zoho, Clientify, GA4**) para transformar webs en máquinas de venta automatizadas.
+  Construyo productos web completos, desde el esquema de base de datos hasta el PDF que recibe el usuario final. Me interesa que el
+  software resuelva un problema operativo real: menos trabajo manual, datos confiables y procesos que no dependan de que alguien se
+  acuerde de hacer algo.
 
----
+  Hoy trabajo en **Global Talent Connections**, donde desarrollo y opero una plataforma interna de reclutamiento y gestión de leads:
+  pipeline de candidatos, portal de selección con pruebas técnicas, validación con bots, embudo comercial y automatizaciones con IA.
+  En paralelo desarrollo mis propios productos y sistemas para clientes.
 
-## 🧩 Stack Tecnológico
+  ## En qué trabajo
 
-| Categoría | Tecnologías |
-|------------|--------------|
-| **E-commerce** | **Shopify (Liquid)** · Custom Sections · Theme 2.0 · Hydrogen |
-| **Frontend** | React · Next.js · **Astro** · Vue.js · TailwindCSS · TypeScript |
-| **Backend** | Python (Flask) · Node.js · Supabase · Firebase |
-| **Integraciones** | **Zoho CRM** · Clientify · GTM · GA4 · Vercel AI SDK |
-| **Herramientas** | Git · Docker · Vercel · Postman · Figma |
+  | Área | Qué hago |
+  |------|----------|
+  | **Plataformas de RRHH** | Pipeline de candidatos, portal de candidatura, pruebas técnicas con antifraude, entrevistas con bot,
+  evaluación de perfiles |
+  | **Embudos y CRM** | Máquinas de estado de leads, agendamiento, SLA automáticos, métricas de conversión |
+  | **IA aplicada** | Análisis de CVs, generación de pruebas y fichas, agentes con colas asíncronas (Gemini, Claude, ElevenLabs) |
+  | **Sistemas a medida** | Historias clínicas veterinarias, control de estacionamiento con biométrico, monitoreo de asistentes |
 
----
+  ## Proyectos
 
-## ⚙️ Filosofía de Desarrollo
+  | Proyecto | Descripción | Stack |
+  |----------|-------------|-------|
+  | **TestiFyHR** | Plataforma de selección: vacantes, pruebas técnicas estructuradas por bloques y seguimiento de candidatos |
+  Next.js · Supabase |
+  | **VetCare Pro** ([katdoc-cloud](https://github.com/Javierjmc/katdoc-cloud)) | Historias clínicas veterinarias mobile-first con
+  recetas y exámenes en PDF (firma, sello, QR) | Next.js · Supabase |
+  | **SICE / ParkingFlow** | Control de estacionamiento de 4 sótanos: mapa interactivo, biométrico Hikvision, auditoría y detección de
+  anomalías | Next.js 16 · Supabase |
+  | **HikWatch** | Sistema web de monitoreo | TypeScript |
+  | **proto-recruiten** | Prototipo de reclutamiento | TypeScript |
 
-> “No solo se trata de programar, sino de traducir objetivos de negocio en soluciones técnicas eficientes.”
+  > Varios proyectos son privados por trabajar con datos de clientes. Puedo contar cómo están construidos si hace falta.
 
-- ⚡ **Performance First:** Optimización de Core Web Vitals y carga ultra rápida.
-- 🛠️ **Custom Shopify:** Desarrollo nativo en Liquid para eliminar la dependencia de apps pesadas.
-- 🤖 **Automatización:** Conexión fluida entre el frontend y el CRM/ERP de la empresa.
-- 🎨 **Pixel Perfect:** Diseño responsivo con foco total en la experiencia de conversión (CRO).
+  ## Stack
 
+  | Categoría | Tecnologías |
+  |-----------|-------------|
+  | **Frontend** | Next.js (App Router) · React · Vue.js · TypeScript · Tailwind CSS · shadcn/ui |
+  | **Backend** | Node.js · Supabase (Postgres, Auth, RLS, Storage) · Inngest · Python |
+  | **IA** | Gemini · Claude · ElevenLabs · colas asíncronas para procesos pesados |
+  | **Integraciones** | Zoho · Clientify · GA4 · WhatsApp · Resend · Slack |
+  | **Herramientas** | Git · GitHub Actions · Vercel · Sentry · Jest · Postman · Figma |
 
----
+  ## Cómo trabajo
 
-## 🌐 Conecta conmigo
+  - **Seguridad desde el diseño:** RLS en cada tabla, buckets privados para datos personales, secretos solo en variables de entorno.
+  - **Procesos pesados fuera de la página:** IA y tareas largas van por colas, no bloquean al usuario.
+  - **Todo queda documentado:** specs por fecha, guías de traspaso y runbooks para que otro pueda continuar el proyecto.
+  - **Un cambio, un PR:** ramas cortas, revisión y pruebas antes de publicar.
 
-<p align="center">
-  <a href="https://linkedin.com/in/javierjmc" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:javierjmcdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+  ## Contacto
+
+  <p align="center">
+    <a href="https://linkedin.com/in/javierjmc">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:javierjmcdev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
