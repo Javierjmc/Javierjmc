@@ -72,9 +72,6 @@
   Sistema de control de estacionamiento con mapa interactivo y auditoría de movimientos.
   `Next.js` `Supabase`
 
-  **TestiFyHR**
-  Proyecto privado.
-
   ---
 
   ## Lo que puedo aportar
