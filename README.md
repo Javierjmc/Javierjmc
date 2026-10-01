@@ -1,79 +1,118 @@
 <h1 align="center">Javier Martínez</h1>
-  <h3 align="center">Desarrollador Full Stack · Productos web con IA y automatización</h3>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <strong>Desarrollador Full Stack</strong><br>
+    Next.js · TypeScript · Supabase · Automatización · IA aplicada
   </p>
 
-  <p align="center">📍 Puerto Ordaz, Venezuela · Trabajo en remoto con equipos en España y Latinoamérica</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"
+  />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  </p>
+
+  <p align="center">
+    Puerto Ordaz, Venezuela · Trabajo en remoto · Español nativo
+  </p>
 
   ---
 
   ## Sobre mí
 
-  Construyo productos web completos, desde el esquema de base de datos hasta el PDF que recibe el usuario final. Me interesa que el
-  software resuelva un problema operativo real: menos trabajo manual, datos confiables y procesos que no dependan de que alguien se
-  acuerde de hacer algo.
+  Soy desarrollador full stack y construyo aplicaciones web de principio a fin: modelo de datos, lógica de negocio, interfaz y
+  despliegue. Trabajo en equipo con revisión de código, pruebas y documentación, y estoy acostumbrado a mantener sistemas que usan
+  personas reales todos los días.
 
-  Hoy trabajo en **Global Talent Connections**, donde desarrollo y opero una plataforma interna de reclutamiento y gestión de leads:
-  pipeline de candidatos, portal de selección con pruebas técnicas, validación con bots, embudo comercial y automatizaciones con IA.
-  En paralelo desarrollo mis propios productos y sistemas para clientes.
+  Mi fuerte es convertir un proceso manual y desordenado en una herramienta clara, segura y que otros puedan mantener.
 
-  ## En qué trabajo
+  **Abierto a oportunidades remotas como desarrollador full stack o frontend.**
 
-  | Área | Qué hago |
-  |------|----------|
-  | **Plataformas de RRHH** | Pipeline de candidatos, portal de candidatura, pruebas técnicas con antifraude, entrevistas con bot,
-  evaluación de perfiles |
-  | **Embudos y CRM** | Máquinas de estado de leads, agendamiento, SLA automáticos, métricas de conversión |
-  | **IA aplicada** | Análisis de CVs, generación de pruebas y fichas, agentes con colas asíncronas (Gemini, Claude, ElevenLabs) |
-  | **Sistemas a medida** | Historias clínicas veterinarias, control de estacionamiento con biométrico, monitoreo de asistentes |
+  ---
+
+  ## Experiencia
+
+  ### Global Talent Connections — Desarrollador
+  *Actual*
+
+  Desarrollo y mantenimiento de herramientas internas para gestión de personal y operación comercial, con uso diario por distintos
+  equipos.
+
+  - Diseño e implementación de módulos completos: base de datos, backend, interfaz y publicación.
+  - Automatización de procesos repetitivos y de tareas en segundo plano.
+  - Integración de modelos de lenguaje en flujos de trabajo reales.
+  - Control de acceso por roles y protección de datos personales.
+  - Trabajo con revisión de código, pruebas automatizadas y despliegue continuo.
+
+  ### Proyectos propios y para clientes
+  Aplicaciones y sitios web para negocios de distintos sectores: salud veterinaria, alimentación, comercio y control de accesos.
+  Detalle abajo.
+
+  ---
 
   ## Proyectos
 
-  | Proyecto | Descripción | Stack |
-  |----------|-------------|-------|
-  | **TestiFyHR** | Plataforma de selección: vacantes, pruebas técnicas estructuradas por bloques y seguimiento de candidatos |
-  Next.js · Supabase |
-  | **VetCare Pro** ([katdoc-cloud](https://github.com/Javierjmc/katdoc-cloud)) | Historias clínicas veterinarias mobile-first con
-  recetas y exámenes en PDF (firma, sello, QR) | Next.js · Supabase |
-  | **SICE / ParkingFlow** | Control de estacionamiento de 4 sótanos: mapa interactivo, biométrico Hikvision, auditoría y detección de
-  anomalías | Next.js 16 · Supabase |
-  | **HikWatch** | Sistema web de monitoreo | TypeScript |
-  | **proto-recruiten** | Prototipo de reclutamiento | TypeScript |
+  **[VetCare Pro](https://github.com/Javierjmc/katdoc-cloud)**
+  Historias clínicas veterinarias, mobile-first, con generación de recetas y exámenes en PDF con firma y sello.
+  `Next.js` `Supabase` `Tailwind CSS`
 
-  > Varios proyectos son privados por trabajar con datos de clientes. Puedo contar cómo están construidos si hace falta.
+  **[Recursos Fricopan](https://recursos-fricopan.vercel.app)**
+  Sitio de acceso rápido a los catálogos de una empresa de alimentación. Cliente real.
+  `HTML` `Vercel`
+
+  **[Herbolario Vitasfera](https://herbolariovitasfera.vercel.app)**
+  Página web para un herbolario, con identidad de marca propia. Cliente real.
+  `HTML` `Vercel`
+
+  **SICE**
+  Sistema de control de estacionamiento con mapa interactivo y auditoría de movimientos.
+  `Next.js` `Supabase`
+
+  **TestiFyHR**
+  Proyecto privado.
+
+  ---
+
+  ## Lo que puedo aportar
+
+  **Producto completo**
+  Puedo tomar una necesidad y llevarla a una aplicación en producción sin depender de varias personas.
+
+  **Seguridad y datos**
+  Roles, permisos por fila y manejo cuidadoso de información sensible.
+
+  **Automatización e IA**
+  Reducir trabajo manual con procesos automáticos y modelos de lenguaje donde realmente aportan.
+
+  **Trabajo en equipo**
+  Cambios pequeños, revisión de código, pruebas y documentación para que el proyecto se pueda traspasar.
+
+  ---
 
   ## Stack
 
-  | Categoría | Tecnologías |
-  |-----------|-------------|
-  | **Frontend** | Next.js (App Router) · React · Vue.js · TypeScript · Tailwind CSS · shadcn/ui |
-  | **Backend** | Node.js · Supabase (Postgres, Auth, RLS, Storage) · Inngest · Python |
-  | **IA** | Gemini · Claude · ElevenLabs · colas asíncronas para procesos pesados |
-  | **Integraciones** | Zoho · Clientify · GA4 · WhatsApp · Resend · Slack |
-  | **Herramientas** | Git · GitHub Actions · Vercel · Sentry · Jest · Postman · Figma |
+  **Frontend** &nbsp; Next.js · React · Vue.js · TypeScript · Tailwind CSS · shadcn/ui
 
-  ## Cómo trabajo
+  **Backend** &nbsp; Node.js · Supabase (Postgres, Auth, Storage) · Python
 
-  - **Seguridad desde el diseño:** RLS en cada tabla, buckets privados para datos personales, secretos solo en variables de entorno.
-  - **Procesos pesados fuera de la página:** IA y tareas largas van por colas, no bloquean al usuario.
-  - **Todo queda documentado:** specs por fecha, guías de traspaso y runbooks para que otro pueda continuar el proyecto.
-  - **Un cambio, un PR:** ramas cortas, revisión y pruebas antes de publicar.
+  **IA y automatización** &nbsp; Modelos de lenguaje · colas de tareas · integraciones por API
+
+  **Herramientas** &nbsp; Git · GitHub Actions · Vercel · Jest · Figma
+
+  ---
 
   ## Contacto
 
   <p align="center">
     <a href="https://linkedin.com/in/javierjmc">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="mailto:javierjmcdev@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
